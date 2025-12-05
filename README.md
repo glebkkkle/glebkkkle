@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Multi-Agent DataAnalyst
 
-- 🌱 I’m currently learning **Multimodal models, Agentic AI, LM integration**
+- 🌱 I’m currently learning **Multimodal models, Agentic AI, LLM integration**
 
 - 👯 I’m looking to collaborate on [VLLM](https://huggingface.co/docs/trl/en/vllm_integration#vllm-with-transformers-backend)
 
