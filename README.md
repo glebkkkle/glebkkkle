@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋,</h1>
+<h1 align="center">Hey 👋</h1>
 <h3 align="center">AI/ML Engineer</h3>
 
 - 🔭 I’m currently working on [Multi-Agent DataAnalyst](https://github.com/glebkkkle/multi-agent-analyst-preview)
